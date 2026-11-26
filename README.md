@@ -1,2 +1,3 @@
 # repo1
-This is my repository
+This is my Git repository
+Author-Taneha
